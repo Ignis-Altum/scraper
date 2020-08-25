@@ -1,4 +1,4 @@
-**The tech scraper can scrape prices on products from Komplett.dk, Proshop.dk, Computersalg.dk and Elgiganten.dk**
+**The tech scraper can scrape prices on products from Komplett.dk, Proshop.dk, Computersalg.dk, Elgiganten.dk and AvXperten.dk**<br/>
 **The Fakta scraper can scrape discounts from this week discounts.**
 
 # Table of contents
@@ -57,6 +57,8 @@ There is some optional arguments you can use when running add_product.py, these 
 -     --computersalg
 
 -     --elgiganten
+
+-     --avxperten
 
 When using one or more of "domain" arguments, only the chosen domains gets added to records.json under the product name. 
 
