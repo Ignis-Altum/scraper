@@ -914,3 +914,8 @@
 2020-09-01 12:00:05,356 : INFO : __main__ : Got response from URL
 2020-09-01 12:00:05,461 : INFO : __main__ : Saving record...
 2020-09-01 12:00:05,470 : INFO : __main__ : Record saved
+2020-09-02 12:00:02,959 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-02 12:00:02,960 : DEBUG : __main__ : Category: gpu
+2020-09-02 12:00:02,960 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1103205/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-2080-ti-rog-strix-oc#
+2020-09-02 12:00:02,960 : INFO : __main__ : Getting response from URL...
+2020-09-02 12:00:03,350 : INFO : __main__ : Got response from URL
