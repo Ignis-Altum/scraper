@@ -971,3 +971,38 @@ AttributeError: 'NoneType' object has no attribute 'text'
 2020-09-05 12:00:05,308 : INFO : __main__ : Got response from URL
 2020-09-05 12:00:05,412 : INFO : __main__ : Saving record...
 2020-09-05 12:00:05,421 : INFO : __main__ : Record saved
+2020-09-06 12:00:02,629 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-06 12:00:02,629 : DEBUG : __main__ : Category: gpu
+2020-09-06 12:00:02,629 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1116464/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-2080-ti-rog-strix
+2020-09-06 12:00:02,629 : INFO : __main__ : Getting response from URL...
+2020-09-06 12:00:02,958 : INFO : __main__ : Got response from URL
+2020-09-06 12:00:03,167 : INFO : __main__ : Saving record...
+2020-09-06 12:00:03,185 : INFO : __main__ : Record saved
+2020-09-06 12:00:03,186 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-06 12:00:03,186 : DEBUG : __main__ : Category: ssd
+2020-09-06 12:00:03,186 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-09-06 12:00:03,186 : INFO : __main__ : Getting response from URL...
+2020-09-06 12:00:03,422 : INFO : __main__ : Got response from URL
+2020-09-06 12:00:03,622 : INFO : __main__ : Saving record...
+2020-09-06 12:00:03,631 : INFO : __main__ : Record saved
+2020-09-06 12:00:03,631 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-06 12:00:03,631 : DEBUG : __main__ : Category: gpu
+2020-09-06 12:00:03,631 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-2080-Ti-ROG-STRIX-OC-11GB-GDDR6-RAM-Grafikkort/2679518
+2020-09-06 12:00:03,631 : INFO : __main__ : Getting response from URL...
+2020-09-06 12:00:03,818 : INFO : __main__ : Got response from URL
+2020-09-06 12:00:03,946 : INFO : __main__ : Saving record...
+2020-09-06 12:00:03,955 : INFO : __main__ : Record saved
+2020-09-06 12:00:03,956 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-06 12:00:03,956 : DEBUG : __main__ : Category: ssd
+2020-09-06 12:00:03,956 : DEBUG : __main__ : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-09-06 12:00:03,956 : INFO : __main__ : Getting response from URL...
+2020-09-06 12:00:04,135 : INFO : __main__ : Got response from URL
+2020-09-06 12:00:04,277 : INFO : __main__ : Saving record...
+2020-09-06 12:00:04,286 : INFO : __main__ : Record saved
+2020-09-06 12:00:04,287 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-06 12:00:04,287 : DEBUG : __main__ : Category: gpu
+2020-09-06 12:00:04,287 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-Radeon-RX-5700-XT-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2792486
+2020-09-06 12:00:04,287 : INFO : __main__ : Getting response from URL...
+2020-09-06 12:00:04,462 : INFO : __main__ : Got response from URL
+2020-09-06 12:00:04,567 : INFO : __main__ : Saving record...
+2020-09-06 12:00:04,575 : INFO : __main__ : Record saved
