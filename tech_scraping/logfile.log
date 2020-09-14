@@ -1269,3 +1269,45 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-09-13 12:00:05,451 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
 2020-09-13 12:00:05,451 : INFO : __main__ : Getting response from URL...
 2020-09-13 12:00:05,621 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:03,084 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-14 12:00:03,084 : DEBUG : __main__ : Category: ssd
+2020-09-14 12:00:03,084 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-09-14 12:00:03,084 : INFO : __main__ : Getting response from URL...
+2020-09-14 12:00:03,398 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:03,598 : INFO : __main__ : Saving record...
+2020-09-14 12:00:03,608 : INFO : __main__ : Record saved
+2020-09-14 12:00:03,608 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-14 12:00:03,609 : DEBUG : __main__ : Category: gpu
+2020-09-14 12:00:03,609 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-2080-Ti-ROG-STRIX-OC-11GB-GDDR6-RAM-Grafikkort/2679518
+2020-09-14 12:00:03,609 : INFO : __main__ : Getting response from URL...
+2020-09-14 12:00:03,807 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:03,964 : INFO : __main__ : Saving record...
+2020-09-14 12:00:03,974 : INFO : __main__ : Record saved
+2020-09-14 12:00:03,974 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-14 12:00:03,974 : DEBUG : __main__ : Category: ssd
+2020-09-14 12:00:03,974 : DEBUG : __main__ : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-09-14 12:00:03,974 : INFO : __main__ : Getting response from URL...
+2020-09-14 12:00:04,146 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:04,251 : INFO : __main__ : Saving record...
+2020-09-14 12:00:04,261 : INFO : __main__ : Record saved
+2020-09-14 12:00:04,261 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-14 12:00:04,262 : DEBUG : __main__ : Category: gpu
+2020-09-14 12:00:04,262 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-Radeon-RX-5700-XT-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2792486
+2020-09-14 12:00:04,262 : INFO : __main__ : Getting response from URL...
+2020-09-14 12:00:04,421 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:04,524 : INFO : __main__ : Saving record...
+2020-09-14 12:00:04,534 : INFO : __main__ : Record saved
+2020-09-14 12:00:04,535 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-14 12:00:04,535 : DEBUG : __main__ : Category: gpu
+2020-09-14 12:00:04,535 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2020-09-14 12:00:04,535 : INFO : __main__ : Getting response from URL...
+2020-09-14 12:00:04,800 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:05,032 : INFO : __main__ : Saving record...
+2020-09-14 12:00:05,042 : INFO : __main__ : Record saved
+2020-09-14 12:00:05,043 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-14 12:00:05,043 : DEBUG : __main__ : Category: gpu
+2020-09-14 12:00:05,043 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2020-09-14 12:00:05,043 : INFO : __main__ : Getting response from URL...
+2020-09-14 12:00:05,197 : INFO : __main__ : Got response from URL
+2020-09-14 12:00:05,308 : INFO : __main__ : Saving record...
+2020-09-14 12:00:05,332 : INFO : __main__ : Record saved
