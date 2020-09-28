@@ -2606,3 +2606,122 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-09-27 12:00:11,418 : INFO : __main__ : Got response from URL
 2020-09-27 12:00:11,540 : INFO : __main__ : Saving record...
 2020-09-27 12:00:11,555 : INFO : __main__ : Record saved
+2020-09-28 12:00:03,501 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:03,501 : DEBUG : __main__ : Category: ssd
+2020-09-28 12:00:03,501 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-09-28 12:00:03,502 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:03,914 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:04,115 : INFO : __main__ : Saving record...
+2020-09-28 12:00:04,130 : INFO : __main__ : Record saved
+2020-09-28 12:00:04,131 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-28 12:00:04,131 : DEBUG : __main__ : Category: gpu
+2020-09-28 12:00:04,131 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-2080-Ti-ROG-STRIX-OC-11GB-GDDR6-RAM-Grafikkort/2679518
+2020-09-28 12:00:04,131 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:04,349 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:04,514 : INFO : __main__ : Saving record...
+2020-09-28 12:00:04,528 : INFO : __main__ : Record saved
+2020-09-28 12:00:04,529 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-28 12:00:04,529 : DEBUG : __main__ : Category: ssd
+2020-09-28 12:00:04,529 : DEBUG : __main__ : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-09-28 12:00:04,529 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:04,703 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:04,808 : INFO : __main__ : Saving record...
+2020-09-28 12:00:04,824 : INFO : __main__ : Record saved
+2020-09-28 12:00:04,824 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-28 12:00:04,824 : DEBUG : __main__ : Category: gpu
+2020-09-28 12:00:04,824 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-Radeon-RX-5700-XT-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2792486
+2020-09-28 12:00:04,824 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:05,027 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:05,132 : INFO : __main__ : Saving record...
+2020-09-28 12:00:05,147 : INFO : __main__ : Record saved
+2020-09-28 12:00:05,148 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:05,148 : DEBUG : __main__ : Category: gpu
+2020-09-28 12:00:05,148 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2020-09-28 12:00:05,148 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:05,397 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:05,630 : INFO : __main__ : Saving record...
+2020-09-28 12:00:05,645 : INFO : __main__ : Record saved
+2020-09-28 12:00:05,646 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-28 12:00:05,646 : DEBUG : __main__ : Category: gpu
+2020-09-28 12:00:05,646 : DEBUG : __main__ : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2020-09-28 12:00:05,646 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:05,805 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:05,926 : INFO : __main__ : Saving record...
+2020-09-28 12:00:05,948 : INFO : __main__ : Record saved
+2020-09-28 12:00:05,949 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:05,949 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:05,949 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1161770/gaming/gaming-pc/baerbar/msi-gl65-leopard-156-fhd-144-hz#
+2020-09-28 12:00:05,949 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:06,202 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:06,409 : INFO : __main__ : Saving record...
+2020-09-28 12:00:06,424 : INFO : __main__ : Record saved
+2020-09-28 12:00:06,424 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:06,424 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:06,424 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1161770/gaming/gaming-pc/baerbar/msi-gl65-leopard-156-fhd-144-hz#
+2020-09-28 12:00:06,424 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:06,642 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:06,886 : INFO : __main__ : Saving record...
+2020-09-28 12:00:06,902 : INFO : __main__ : Record saved
+2020-09-28 12:00:06,902 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:06,902 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:06,902 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+2020-09-28 12:00:06,902 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:07,270 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:07,481 : INFO : __main__ : Saving record...
+2020-09-28 12:00:07,496 : INFO : __main__ : Record saved
+2020-09-28 12:00:07,496 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:07,496 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:07,497 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1155443/gaming/gaming-pc/baerbar/asus-rog-strix-g512lw-156-fhd-144-hz
+2020-09-28 12:00:07,497 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:07,866 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:08,071 : INFO : __main__ : Saving record...
+2020-09-28 12:00:08,087 : INFO : __main__ : Record saved
+2020-09-28 12:00:08,087 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:08,087 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:08,087 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1155433/gaming/gaming-pc/baerbar/asus-rog-zephyrus-g15-ga502iv-156-fhd-240-hz
+2020-09-28 12:00:08,087 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:08,447 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:08,677 : INFO : __main__ : Saving record...
+2020-09-28 12:00:08,693 : INFO : __main__ : Record saved
+2020-09-28 12:00:08,693 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:08,693 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:08,693 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1157681/gaming/gaming-pc/baerbar/acer-nitro-5-an515-55-156-fhd-144-hz
+2020-09-28 12:00:08,694 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:09,127 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:09,382 : INFO : __main__ : Saving record...
+2020-09-28 12:00:09,397 : INFO : __main__ : Record saved
+2020-09-28 12:00:09,397 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:09,397 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:09,397 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1157681/gaming/gaming-pc/baerbar/acer-nitro-5-an515-55-156-fhd-144-hz
+2020-09-28 12:00:09,398 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:09,560 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:09,783 : INFO : __main__ : Saving record...
+2020-09-28 12:00:09,798 : INFO : __main__ : Record saved
+2020-09-28 12:00:09,799 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:09,799 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:09,799 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1159645/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-120-hz
+2020-09-28 12:00:09,799 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:10,030 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:10,248 : INFO : __main__ : Saving record...
+2020-09-28 12:00:10,263 : INFO : __main__ : Record saved
+2020-09-28 12:00:10,264 : DEBUG : __main__ : Initiating class "Elgiganten"
+2020-09-28 12:00:10,264 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:10,264 : DEBUG : __main__ : URL: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
+2020-09-28 12:00:10,264 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:10,475 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:10,890 : INFO : __main__ : Saving record...
+2020-09-28 12:00:10,905 : INFO : __main__ : Record saved
+2020-09-28 12:00:10,906 : DEBUG : __main__ : Initiating class "Komplett"
+2020-09-28 12:00:10,906 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:10,906 : DEBUG : __main__ : URL: https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#
+2020-09-28 12:00:10,906 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:11,245 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:11,453 : INFO : __main__ : Saving record...
+2020-09-28 12:00:11,469 : INFO : __main__ : Record saved
+2020-09-28 12:00:11,469 : DEBUG : __main__ : Initiating class "Proshop"
+2020-09-28 12:00:11,469 : DEBUG : __main__ : Category: baerbar
+2020-09-28 12:00:11,469 : DEBUG : __main__ : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154
+2020-09-28 12:00:11,469 : INFO : __main__ : Getting response from URL...
+2020-09-28 12:00:11,627 : INFO : __main__ : Got response from URL
+2020-09-28 12:00:11,751 : INFO : __main__ : Saving record...
+2020-09-28 12:00:11,766 : INFO : __main__ : Record saved
