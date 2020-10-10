@@ -761,13 +761,15 @@
             "price": "10762"
           },
           "2020-10-03": {
-            "price": "10762"
+            "price": "10762",
+            "info": "No longer with RTX Rainbow Six Siege Bundle"
           },
           "2020-10-04": {
             "price": "10762"
           },
           "2020-10-05": {
-            "price": "Varen er udg\u00e5et"
+            "price": "0",
+            "info": "Varen er udg\u00e5et"
           },
           "2020-10-06": {
             "price": "10966"
@@ -779,10 +781,12 @@
             "price": "10739"
           },
           "2020-10-09": {
-            "price": "Varen er udg\u00e5et"
+            "price": "0",
+            "info": "Varen er udg\u00e5et"
           },
           "2020-10-10": {
-            "price": "Varen er udg\u00e5et"
+            "price": "0",
+            "info": "Varen er udg\u00e5et"
           }
         }
       }
@@ -2118,7 +2122,8 @@
             "price": "12490"
           },
           "2020-09-26": {
-            "price": "Varen er udg\u00e5et"
+            "price": "0",
+            "info": "Varen er udg\u00e5et"
           }
         }
       }
