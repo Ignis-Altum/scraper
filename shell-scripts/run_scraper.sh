@@ -10,7 +10,7 @@ git commit -m "Update from Crinibus/scraper"
 
 # Run python-script
 cd /home/pi/Documents/scraper/tech_scraping/
-python3 scraping.py
+python3 scraper.py
 
 # Commit change in logfile.log
 git add logfile.log
