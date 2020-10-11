@@ -9,7 +9,7 @@ git add .
 git commit -m "Update from Crinibus/scraper"
 
 # Push updates from Crinibus/scraper to origin
-git push origin master
+#git push origin master
 
 
 # Get updates from origin (new links and stuff)
