@@ -16,3 +16,4 @@ scraper.Elgiganten('baerbar', 'https://www.elgiganten.dk/product/gaming/gaming-l
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#')
 scraper.Proshop('baerbar', 'https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154')
 #test
+#test2
