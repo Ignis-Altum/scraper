@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Get update from upstream
+# Get update from upstream (changes in code)
 cd /home/pi/Documents/scraper/
 git pull upstream master --commit --no-edit
 
