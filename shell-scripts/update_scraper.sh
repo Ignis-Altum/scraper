@@ -4,7 +4,7 @@
 cd /home/pi/Documents/scraper/
 git pull upstream master --commit --no-edit
 
-# Commit changes
+# Commit update
 git add .
 git commit -m "Update from Crinibus/scraper"
 
