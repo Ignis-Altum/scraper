@@ -834,10 +834,12 @@
             "info": "Varen er udg\u00e5et"
           },
           "2020-10-11": {
-            "price": "Varen er udg\u00e5et"
+            "price": "0",
+            "info": "Varen er udg\u00e5et"
           },
           "2020-10-12": {
-            "price": "Varen er udg\u00e5et"
+            "price": "0",
+            "info": "Varen er udg\u00e5et"
           }
         }
       }
