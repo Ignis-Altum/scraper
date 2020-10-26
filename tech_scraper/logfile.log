@@ -5343,3 +5343,94 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-10-25 12:00:09,508 : INFO : scraper : Got response from URL
 2020-10-25 12:00:09,635 : INFO : scraper : Saving record...
 2020-10-25 12:00:09,659 : INFO : scraper : Record saved
+2020-10-26 12:00:03,852 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:03,853 : DEBUG : scraper : Category: ssd
+2020-10-26 12:00:03,853 : DEBUG : scraper : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-10-26 12:00:03,853 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:04,194 : INFO : scraper : Got response from URL
+2020-10-26 12:00:04,398 : INFO : scraper : Saving record...
+2020-10-26 12:00:04,424 : INFO : scraper : Record saved
+2020-10-26 12:00:04,424 : DEBUG : scraper : Initiating class "Proshop"
+2020-10-26 12:00:04,425 : DEBUG : scraper : Category: ssd
+2020-10-26 12:00:04,425 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-10-26 12:00:04,425 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:04,594 : INFO : scraper : Got response from URL
+2020-10-26 12:00:04,750 : INFO : scraper : Saving record...
+2020-10-26 12:00:04,774 : INFO : scraper : Record saved
+2020-10-26 12:00:04,775 : DEBUG : scraper : Initiating class "Proshop"
+2020-10-26 12:00:04,775 : DEBUG : scraper : Category: gpu
+2020-10-26 12:00:04,775 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-Radeon-RX-5700-XT-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2792486
+2020-10-26 12:00:04,775 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:04,907 : INFO : scraper : Got response from URL
+2020-10-26 12:00:05,011 : INFO : scraper : Saving record...
+2020-10-26 12:00:05,035 : INFO : scraper : Record saved
+2020-10-26 12:00:05,036 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:05,036 : DEBUG : scraper : Category: gpu
+2020-10-26 12:00:05,036 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2020-10-26 12:00:05,036 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:05,205 : INFO : scraper : Got response from URL
+2020-10-26 12:00:05,433 : INFO : scraper : Saving record...
+2020-10-26 12:00:05,457 : INFO : scraper : Record saved
+2020-10-26 12:00:05,458 : DEBUG : scraper : Initiating class "Proshop"
+2020-10-26 12:00:05,458 : DEBUG : scraper : Category: gpu
+2020-10-26 12:00:05,458 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2020-10-26 12:00:05,458 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:05,581 : INFO : scraper : Got response from URL
+2020-10-26 12:00:05,703 : INFO : scraper : Saving record...
+2020-10-26 12:00:05,726 : INFO : scraper : Record saved
+2020-10-26 12:00:05,727 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:05,727 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:05,727 : DEBUG : scraper : URL: https://www.komplett.dk/product/1161770/gaming/gaming-pc/baerbar/msi-gl65-leopard-156-fhd-144-hz#
+2020-10-26 12:00:05,728 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:06,062 : INFO : scraper : Got response from URL
+2020-10-26 12:00:06,305 : INFO : scraper : Saving record...
+2020-10-26 12:00:06,331 : INFO : scraper : Record saved
+2020-10-26 12:00:06,332 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:06,332 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:06,332 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+2020-10-26 12:00:06,333 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:06,509 : INFO : scraper : Got response from URL
+2020-10-26 12:00:06,712 : INFO : scraper : Saving record...
+2020-10-26 12:00:06,736 : INFO : scraper : Record saved
+2020-10-26 12:00:06,737 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:06,737 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:06,738 : DEBUG : scraper : URL: https://www.komplett.dk/product/1155433/gaming/gaming-pc/baerbar/asus-rog-zephyrus-g15-ga502iv-156-fhd-240-hz
+2020-10-26 12:00:06,738 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:07,073 : INFO : scraper : Got response from URL
+2020-10-26 12:00:07,280 : INFO : scraper : Saving record...
+2020-10-26 12:00:07,304 : INFO : scraper : Record saved
+2020-10-26 12:00:07,304 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:07,305 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:07,305 : DEBUG : scraper : URL: https://www.komplett.dk/product/1157681/gaming/gaming-pc/baerbar/acer-nitro-5-an515-55-156-fhd-144-hz
+2020-10-26 12:00:07,305 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:07,577 : INFO : scraper : Got response from URL
+2020-10-26 12:00:07,796 : INFO : scraper : Saving record...
+2020-10-26 12:00:07,820 : INFO : scraper : Record saved
+2020-10-26 12:00:07,821 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:07,821 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:07,821 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159645/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-120-hz
+2020-10-26 12:00:07,821 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:08,103 : INFO : scraper : Got response from URL
+2020-10-26 12:00:08,322 : INFO : scraper : Saving record...
+2020-10-26 12:00:08,346 : INFO : scraper : Record saved
+2020-10-26 12:00:08,347 : DEBUG : scraper : Initiating class "Elgiganten"
+2020-10-26 12:00:08,348 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:08,348 : DEBUG : scraper : URL: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
+2020-10-26 12:00:08,348 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:09,275 : INFO : scraper : Got response from URL
+2020-10-26 12:00:09,645 : INFO : scraper : Saving record...
+2020-10-26 12:00:09,671 : INFO : scraper : Record saved
+2020-10-26 12:00:09,672 : DEBUG : scraper : Initiating class "Komplett"
+2020-10-26 12:00:09,672 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:09,672 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#
+2020-10-26 12:00:09,672 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:09,866 : INFO : scraper : Got response from URL
+2020-10-26 12:00:10,152 : INFO : scraper : Saving record...
+2020-10-26 12:00:10,176 : INFO : scraper : Record saved
+2020-10-26 12:00:10,177 : DEBUG : scraper : Initiating class "Proshop"
+2020-10-26 12:00:10,177 : DEBUG : scraper : Category: baerbar
+2020-10-26 12:00:10,177 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154
+2020-10-26 12:00:10,177 : INFO : scraper : Getting response from URL...
+2020-10-26 12:00:10,282 : INFO : scraper : Got response from URL
+2020-10-26 12:00:10,408 : INFO : scraper : Saving record...
+2020-10-26 12:00:10,431 : INFO : scraper : Record saved
