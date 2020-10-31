@@ -19,3 +19,4 @@ scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1159657/gaming/gami
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1159925/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506ii-156-fhd-144-hz')
 scraper.Proshop('baerbar', 'https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060')
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc')
+scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-TUF-OC-10GB-GDDR6X-RAM-Grafikkort/2876861')
