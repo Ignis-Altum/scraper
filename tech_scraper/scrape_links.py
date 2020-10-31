@@ -18,5 +18,4 @@ scraper.Proshop('baerbar', 'https://www.proshop.dk/Baerbar/ASUS-ROG-Zephyrus-M15
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1159657/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-240-hz-500-nits')
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1159925/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506ii-156-fhd-144-hz')
 scraper.Proshop('baerbar', 'https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060')
-scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1147204/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc')
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc')
