@@ -24,3 +24,8 @@ scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-
 scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-TUF-OC-24GB-GDDR6X-RAM-Grafikkort/2876869')
 scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2876845')
 scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856')
+scraper.Komplett('gpu', 'https://www.komplett.dk/product/1168491/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-tuf-oc-gaming')
+scraper.Komplett('gpu', 'https://www.komplett.dk/product/1168490/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-tuf-oc-gaming')
+scraper.Komplett('gpu', 'https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc')
+scraper.Komplett('gpu', 'https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc')
+scraper.Komplett('gpu', 'https://www.komplett.dk/product/1173739/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix-oc-mouse')
