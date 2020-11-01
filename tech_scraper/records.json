@@ -321,6 +321,9 @@
           },
           "2020-10-31": {
             "price": "3399"
+          },
+          "2020-11-01": {
+            "price": "3399"
           }
         }
       }
@@ -1009,6 +1012,9 @@
           },
           "2020-10-31": {
             "price": "7390"
+          },
+          "2020-11-01": {
+            "price": "7390"
           }
         }
       },
@@ -1155,6 +1161,9 @@
           },
           "2020-10-31": {
             "price": "7190"
+          },
+          "2020-11-01": {
+            "price": "7190"
           }
         }
       }
@@ -1162,86 +1171,121 @@
     "asus geforce rtx 3080 tuf oc": {
       "www.komplett.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
-        },
-        "dates": {}
-      },
-      "www.proshop.dk": {
-        "info": {
-          "part_num": "",
-          "url": ""
-        },
-        "dates": {}
-      }
-    },
-    "asus geforce rtx 3090 rog strix oc": {
-      "www.komplett.dk": {
-        "info": {
-          "part_num": "",
-          "url": ""
-        },
-        "dates": {}
-      },
-      "www.proshop.dk": {
-        "info": {
-          "part_num": "",
-          "url": ""
-        },
-        "dates": {}
-      }
-    },
-    "asus geforce rtx 3090 tuf oc": {
-      "www.komplett.dk": {
-        "info": {
-          "part_num": "",
-          "url": ""
-        },
-        "dates": {}
-      },
-      "www.proshop.dk": {
-        "info": {
-          "part_num": "",
-          "url": ""
-        },
-        "dates": {}
-      }
-    },
-    "asus geforce rtx 3070 rog strix oc": {
-      "www.komplett.dk": {
-        "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "1168491",
+          "url": "https://www.komplett.dk/product/1168491"
         },
         "dates": {
           "2020-11-01": {
-            "price": "",
-            "info": "Included is ROG Strix Impact II Gaming mouse"
+            "price": "6599"
           }
         }
       },
       "www.proshop.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "2876861",
+          "url": "https://www.proshop.dk/2876861"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "6390"
+          }
+        }
+      }
+    },
+    "asus geforce rtx 3090 rog strix oc": {
+      "www.komplett.dk": {
+        "info": {
+          "part_num": "1168438",
+          "url": "https://www.komplett.dk/product/1168438"
+        },
+        "dates": {
+          "2020-11-01": {
+            "price": "14190"
+          }
+        }
+      },
+      "www.proshop.dk": {
+        "info": {
+          "part_num": "2876867",
+          "url": "https://www.proshop.dk/2876867"
+        },
+        "dates": {
+          "2020-11-01": {
+            "price": "14190"
+          }
+        }
+      }
+    },
+    "asus geforce rtx 3090 tuf oc": {
+      "www.komplett.dk": {
+        "info": {
+          "part_num": "1168490",
+          "url": "https://www.komplett.dk/product/1168490"
+        },
+        "dates": {
+          "2020-11-01": {
+            "price": "13490"
+          }
+        }
+      },
+      "www.proshop.dk": {
+        "info": {
+          "part_num": "2876869",
+          "url": "https://www.proshop.dk/2876869"
+        },
+        "dates": {
+          "2020-11-01": {
+            "price": "12990"
+          }
+        }
+      }
+    },
+    "asus geforce rtx 3070 rog strix oc": {
+      "www.komplett.dk": {
+        "info": {
+          "part_num": "1173739",
+          "url": "https://www.komplett.dk/product/1173739"
+        },
+        "dates": {
+          "2020-11-01": {
+            "price": "5690"
+          }
+        }
+      },
+      "www.proshop.dk": {
+        "info": {
+          "part_num": "2876845",
+          "url": "https://www.proshop.dk/2876845"
+        },
+        "dates": {
+          "2020-11-01": {
+            "price": "5690"
+          }
+        }
       }
     },
     "asus geforce rtx 3070 tuf oc": {
       "www.komplett.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "1171385",
+          "url": "https://www.komplett.dk/product/1171385"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "4990"
+          }
+        }
       },
       "www.proshop.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "2876856",
+          "url": "https://www.proshop.dk/2876856"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "4890"
+          }
+        }
       }
     }
   },
@@ -1636,6 +1680,9 @@
           },
           "2020-10-31": {
             "price": "2699"
+          },
+          "2020-11-01": {
+            "price": "2699"
           }
         }
       },
@@ -1962,6 +2009,9 @@
           },
           "2020-10-31": {
             "price": "1462"
+          },
+          "2020-11-01": {
+            "price": "1462"
           }
         }
       }
@@ -2097,6 +2147,9 @@
           },
           "2020-10-31": {
             "price": "14995"
+          },
+          "2020-11-01": {
+            "price": "14995"
           }
         }
       }
@@ -2229,6 +2282,9 @@
             "price": "13495"
           },
           "2020-10-31": {
+            "price": "13495"
+          },
+          "2020-11-01": {
             "price": "13495"
           }
         }
@@ -2406,6 +2462,9 @@
           },
           "2020-10-31": {
             "price": "12495"
+          },
+          "2020-11-01": {
+            "price": "12495"
           }
         }
       }
@@ -2538,6 +2597,9 @@
             "price": "9990"
           },
           "2020-10-31": {
+            "price": "9990"
+          },
+          "2020-11-01": {
             "price": "9990"
           }
         }
@@ -2672,6 +2734,9 @@
           },
           "2020-10-31": {
             "price": "10995"
+          },
+          "2020-11-01": {
+            "price": "10995"
           }
         }
       }
@@ -2802,6 +2867,9 @@
           },
           "2020-10-31": {
             "price": "9999"
+          },
+          "2020-11-01": {
+            "price": "9999"
           }
         }
       }
@@ -2931,6 +2999,9 @@
             "price": "10995"
           },
           "2020-10-31": {
+            "price": "10995"
+          },
+          "2020-11-01": {
             "price": "10995"
           }
         }
@@ -3097,6 +3168,9 @@
           },
           "2020-10-31": {
             "price": "9150"
+          },
+          "2020-11-01": {
+            "price": "9150"
           }
         }
       }
@@ -3104,46 +3178,66 @@
     "asus rog zephyrus m15 gu502lu-az027t": {
       "www.proshop.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "2884762",
+          "url": "https://www.proshop.dk/2884762"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "13435"
+          }
+        }
       }
     },
     "lenovo legion 5i 15,6\" fhd 240 hz 500 nits": {
       "www.komplett.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "1159657",
+          "url": "https://www.komplett.dk/product/1159657"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "12995"
+          }
+        }
       }
     },
     "asus tuf gaming a15 fx506ii 15,6\" fhd 144 hz": {
       "www.komplett.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "1159925",
+          "url": "https://www.komplett.dk/product/1159925"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "7695"
+          }
+        }
       }
     },
     "asus zenbook duo ux481fl-hj091r": {
       "www.proshop.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "2866060",
+          "url": "https://www.proshop.dk/2866060"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "12564"
+          }
+        }
       }
     },
     "komplett khameleon p9 baerbar gaming pc": {
       "www.komplett.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "1147203",
+          "url": "https://www.komplett.dk/product/1147203"
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "8499"
+          }
+        }
       }
     }
   }
