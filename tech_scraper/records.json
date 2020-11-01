@@ -1213,7 +1213,12 @@
           "part_num": "",
           "url": ""
         },
-        "dates": {}
+        "dates": {
+          "2020-11-01": {
+            "price": "",
+            "info": "Included is ROG Strix Impact II Gaming mouse"
+          }
+        }
       },
       "www.proshop.dk": {
         "info": {
