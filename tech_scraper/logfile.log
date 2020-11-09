@@ -6567,3 +6567,84 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-11-08 12:00:16,525 : DEBUG : scraper : Initiating class "Komplett"
 2020-11-08 12:00:16,525 : DEBUG : scraper : URL: https://www.komplett.dk/product/1173739/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix-oc-mouse
 2020-11-08 12:00:17,066 : INFO : scraper : Record saved
+2020-11-09 12:00:03,506 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:03,506 : DEBUG : scraper : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-11-09 12:00:03,984 : INFO : scraper : Record saved
+2020-11-09 12:00:03,985 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:03,985 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-11-09 12:00:04,263 : INFO : scraper : Record saved
+2020-11-09 12:00:04,264 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:04,264 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-Radeon-RX-5700-XT-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2792486
+2020-11-09 12:00:04,512 : INFO : scraper : Record saved
+2020-11-09 12:00:04,513 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:04,513 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2020-11-09 12:00:05,013 : INFO : scraper : Record saved
+2020-11-09 12:00:05,014 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:05,014 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2020-11-09 12:00:05,273 : INFO : scraper : Record saved
+2020-11-09 12:00:05,274 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:05,274 : DEBUG : scraper : URL: https://www.komplett.dk/product/1161770/gaming/gaming-pc/baerbar/msi-gl65-leopard-156-fhd-144-hz#
+2020-11-09 12:00:05,948 : INFO : scraper : Record saved
+2020-11-09 12:00:05,949 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:05,949 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+2020-11-09 12:00:06,456 : INFO : scraper : Record saved
+2020-11-09 12:00:06,457 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:06,457 : DEBUG : scraper : URL: https://www.komplett.dk/product/1155433/gaming/gaming-pc/baerbar/asus-rog-zephyrus-g15-ga502iv-156-fhd-240-hz
+2020-11-09 12:00:07,111 : INFO : scraper : Record saved
+2020-11-09 12:00:07,111 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:07,112 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159645/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-120-hz
+2020-11-09 12:00:07,733 : INFO : scraper : Record saved
+2020-11-09 12:00:07,734 : DEBUG : scraper : Initiating class "Elgiganten"
+2020-11-09 12:00:07,734 : DEBUG : scraper : URL: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
+2020-11-09 12:00:09,095 : INFO : scraper : Record saved
+2020-11-09 12:00:09,096 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:09,097 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#
+2020-11-09 12:00:09,694 : INFO : scraper : Record saved
+2020-11-09 12:00:09,695 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:09,695 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154
+2020-11-09 12:00:10,051 : INFO : scraper : Record saved
+2020-11-09 12:00:10,052 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:10,052 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ROG-Zephyrus-M15-GU502LU-AZ027T/2884762
+2020-11-09 12:00:10,347 : INFO : scraper : Record saved
+2020-11-09 12:00:10,348 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:10,348 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159657/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-240-hz-500-nits
+2020-11-09 12:00:10,960 : INFO : scraper : Record saved
+2020-11-09 12:00:10,961 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:10,961 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159925/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506ii-156-fhd-144-hz
+2020-11-09 12:00:11,530 : INFO : scraper : Record saved
+2020-11-09 12:00:11,531 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:11,531 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
+2020-11-09 12:00:11,858 : INFO : scraper : Record saved
+2020-11-09 12:00:11,859 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:11,859 : DEBUG : scraper : URL: https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc
+2020-11-09 12:00:12,544 : INFO : scraper : Record saved
+2020-11-09 12:00:12,545 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:12,546 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-TUF-OC-10GB-GDDR6X-RAM-Grafikkort/2876861
+2020-11-09 12:00:12,824 : INFO : scraper : Record saved
+2020-11-09 12:00:12,825 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:12,826 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Grafikkort/2876867
+2020-11-09 12:00:13,086 : INFO : scraper : Record saved
+2020-11-09 12:00:13,087 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:13,087 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-TUF-OC-24GB-GDDR6X-RAM-Grafikkort/2876869
+2020-11-09 12:00:13,370 : INFO : scraper : Record saved
+2020-11-09 12:00:13,371 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:13,371 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2876845
+2020-11-09 12:00:13,651 : INFO : scraper : Record saved
+2020-11-09 12:00:13,652 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-09 12:00:13,652 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
+2020-11-09 12:00:13,991 : INFO : scraper : Record saved
+2020-11-09 12:00:13,992 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:13,992 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168491/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-tuf-oc-gaming
+2020-11-09 12:00:14,458 : INFO : scraper : Record saved
+2020-11-09 12:00:14,459 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:14,459 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168490/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-tuf-oc-gaming
+2020-11-09 12:00:15,078 : INFO : scraper : Record saved
+2020-11-09 12:00:15,079 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:15,080 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
+2020-11-09 12:00:15,675 : INFO : scraper : Record saved
+2020-11-09 12:00:15,675 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:15,676 : DEBUG : scraper : URL: https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc
+2020-11-09 12:00:16,152 : INFO : scraper : Record saved
+2020-11-09 12:00:16,153 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-09 12:00:16,153 : DEBUG : scraper : URL: https://www.komplett.dk/product/1173739/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix-oc-mouse
+2020-11-09 12:00:16,675 : INFO : scraper : Record saved
