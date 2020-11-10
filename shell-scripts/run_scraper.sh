@@ -5,8 +5,8 @@ cd /home/pi/Documents/scraper/
 git pull upstream master --commit --no-edit
 
 # Commit update
-git add .
-git commit -m "Update from Crinibus/scraper"
+#git add .
+#git commit -m "Update from Crinibus/scraper"
 
 # Run python-script
 cd /home/pi/Documents/scraper/tech_scraper/
