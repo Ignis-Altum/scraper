@@ -7892,3 +7892,15 @@ Traceback (most recent call last):
   File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 300, in get_info
     self.name = self.html_soup.find('h1', class_='product-title').text.lower()
 AttributeError: 'NoneType' object has no attribute 'text'
+2020-11-21 16:04:05,932 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-21 16:04:05,933 : DEBUG : scraper : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-11-21 16:04:06,353 : INFO : scraper : Record saved
+2020-11-21 16:04:06,354 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-21 16:04:06,354 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-11-21 16:04:37,338 : ERROR : scraper : Failed in method "Proshop.get_info()": 'NoneType' object has no attribute 'h1'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 279, in get_info
+    self.name = self.html_soup.find('div', class_='col-xs-12 col-sm-7').h1.text.lower()
+AttributeError: 'NoneType' object has no attribute 'h1'
