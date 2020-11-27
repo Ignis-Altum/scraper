@@ -8501,3 +8501,31 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-11-26 12:00:16,196 : DEBUG : scraper : Initiating class "Proshop"
 2020-11-26 12:00:16,197 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A15-FX506IV-HN330T/2876644
 2020-11-26 12:00:16,494 : INFO : scraper : Record saved
+2020-11-27 12:00:03,021 : DEBUG : scraper : Initiating class "Komplett"
+2020-11-27 12:00:03,021 : DEBUG : scraper : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2020-11-27 12:00:03,584 : ERROR : scraper : Failed in method "Komplett.get_info()": 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 274, in get_info
+    self.price = self.html_soup.find('span', class_='product-price-now').text.strip(',-').replace('.', '')
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-11-27 12:00:03,600 : ERROR : scraper : Failed in method "Komplett.save_record()": 'Komplett' object has no attribute 'price'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 73, in __init__
+    self.save_record()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 224, in save_record
+    data[self.cat][self.name][self.URL_domain]["dates"][self.date] = {"price": self.price}
+AttributeError: 'Komplett' object has no attribute 'price'
+2020-11-27 12:00:03,602 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-27 12:00:03,602 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-11-27 12:00:03,942 : INFO : scraper : Record saved
+2020-11-27 12:00:03,943 : DEBUG : scraper : Initiating class "Proshop"
+2020-11-27 12:00:03,943 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-Radeon-RX-5700-XT-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2792486
+2020-11-27 12:00:04,413 : ERROR : scraper : Failed in method "Proshop.get_info()": 'NoneType' object has no attribute 'h1'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 279, in get_info
+    self.name = self.html_soup.find('div', class_='col-xs-12 col-sm-7').h1.text.lower()
+AttributeError: 'NoneType' object has no attribute 'h1'
