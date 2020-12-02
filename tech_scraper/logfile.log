@@ -9002,3 +9002,107 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-12-01 12:00:16,594 : DEBUG : scraper : Initiating class "Proshop"
 2020-12-01 12:00:16,595 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A15-FX506IV-HN330T/2876644
 2020-12-01 12:00:16,895 : INFO : scraper : Record saved
+2020-12-02 12:00:02,624 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:02,625 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-12-02 12:00:02,919 : INFO : scraper : Record saved
+2020-12-02 12:00:02,920 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:02,920 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2020-12-02 12:00:03,342 : INFO : scraper : Record saved
+2020-12-02 12:00:03,343 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:03,343 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2020-12-02 12:00:03,663 : INFO : scraper : Record saved
+2020-12-02 12:00:03,664 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:03,664 : DEBUG : scraper : URL: https://www.komplett.dk/product/1161770/gaming/gaming-pc/baerbar/msi-gl65-leopard-156-fhd-144-hz#
+2020-12-02 12:00:04,252 : INFO : scraper : Record saved
+2020-12-02 12:00:04,253 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:04,254 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+2020-12-02 12:00:04,790 : INFO : scraper : Record saved
+2020-12-02 12:00:04,791 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:04,791 : DEBUG : scraper : URL: https://www.komplett.dk/product/1155433/gaming/gaming-pc/baerbar/asus-rog-zephyrus-g15-ga502iv-156-fhd-240-hz
+2020-12-02 12:00:05,349 : INFO : scraper : Record saved
+2020-12-02 12:00:05,351 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:05,351 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159645/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-120-hz
+2020-12-02 12:00:05,933 : INFO : scraper : Record saved
+2020-12-02 12:00:05,935 : DEBUG : scraper : Initiating class "Elgiganten"
+2020-12-02 12:00:05,935 : DEBUG : scraper : URL: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
+2020-12-02 12:00:06,475 : INFO : scraper : Record saved
+2020-12-02 12:00:06,476 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:06,477 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#
+2020-12-02 12:00:07,009 : INFO : scraper : Record saved
+2020-12-02 12:00:07,010 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:07,010 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154
+2020-12-02 12:00:07,370 : INFO : scraper : Record saved
+2020-12-02 12:00:07,371 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:07,371 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ROG-Zephyrus-M15-GU502LU-AZ027T/2884762
+2020-12-02 12:00:07,730 : INFO : scraper : Record saved
+2020-12-02 12:00:07,731 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:07,731 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159657/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-240-hz-500-nits
+2020-12-02 12:00:08,258 : ERROR : scraper : Failed in method "Komplett.get_info()": 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 282, in get_info
+    self.price = self.html_soup.find('span', class_='product-price-now').text.strip(',-').replace('.', '')
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-12-02 12:00:08,271 : ERROR : scraper : Failed in method "Komplett.save_record()": 'Komplett' object has no attribute 'price'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 81, in __init__
+    self.save_record()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 232, in save_record
+    data[self.cat][self.name][self.URL_domain]["dates"][self.date] = {"price": self.price}
+AttributeError: 'Komplett' object has no attribute 'price'
+2020-12-02 12:00:08,273 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:08,273 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159925/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506ii-156-fhd-144-hz
+2020-12-02 12:00:08,810 : INFO : scraper : Record saved
+2020-12-02 12:00:08,811 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:08,811 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
+2020-12-02 12:00:10,199 : INFO : scraper : Record saved
+2020-12-02 12:00:10,200 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:10,201 : DEBUG : scraper : URL: https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc
+2020-12-02 12:00:10,908 : INFO : scraper : Record saved
+2020-12-02 12:00:10,909 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:10,910 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Grafikkort/2876867
+2020-12-02 12:00:11,217 : INFO : scraper : Record saved
+2020-12-02 12:00:11,218 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:11,219 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-TUF-OC-24GB-GDDR6X-RAM-Grafikkort/2876869
+2020-12-02 12:00:11,515 : INFO : scraper : Record saved
+2020-12-02 12:00:11,516 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:11,517 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2876845
+2020-12-02 12:00:11,876 : INFO : scraper : Record saved
+2020-12-02 12:00:11,877 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:11,877 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
+2020-12-02 12:00:12,251 : INFO : scraper : Record saved
+2020-12-02 12:00:12,252 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:12,253 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168490/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-tuf-oc-gaming
+2020-12-02 12:00:13,966 : INFO : scraper : Record saved
+2020-12-02 12:00:13,967 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:13,967 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
+2020-12-02 12:00:14,600 : INFO : scraper : Record saved
+2020-12-02 12:00:14,601 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:14,601 : DEBUG : scraper : URL: https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc
+2020-12-02 12:00:15,118 : INFO : scraper : Record saved
+2020-12-02 12:00:15,120 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:15,120 : DEBUG : scraper : URL: https://www.komplett.dk/product/1173739/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix-oc-mouse
+2020-12-02 12:00:15,748 : ERROR : scraper : Failed in method "Komplett.get_info()": 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 282, in get_info
+    self.price = self.html_soup.find('span', class_='product-price-now').text.strip(',-').replace('.', '')
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-12-02 12:00:15,763 : ERROR : scraper : Failed in method "Komplett.save_record()": 'Komplett' object has no attribute 'price'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 81, in __init__
+    self.save_record()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 232, in save_record
+    data[self.cat][self.name][self.URL_domain]["dates"][self.date] = {"price": self.price}
+AttributeError: 'Komplett' object has no attribute 'price'
+2020-12-02 12:00:15,765 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-02 12:00:15,765 : DEBUG : scraper : URL: https://www.komplett.dk/product/1166278/gaming/gaming-pc/baerbar/asus-tuf-gaming-f15-fx506lu-156-fhd-144-hz
+2020-12-02 12:00:16,277 : INFO : scraper : Record saved
+2020-12-02 12:00:16,278 : DEBUG : scraper : Initiating class "Computersalg"
+2020-12-02 12:00:16,278 : DEBUG : scraper : URL: https://www.computersalg.dk/i/6713520/asus-rog-strix-gaming-g512lv-az012t?sq=6713520
+2020-12-02 12:00:18,002 : INFO : scraper : Record saved
+2020-12-02 12:00:18,003 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-02 12:00:18,003 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A15-FX506IV-HN330T/2876644
+2020-12-02 12:00:18,312 : INFO : scraper : Record saved
