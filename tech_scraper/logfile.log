@@ -9546,3 +9546,91 @@ AttributeError: 'Komplett' object has no attribute 'price'
 2020-12-07 12:00:47,104 : DEBUG : scraper : Initiating class "Proshop"
 2020-12-07 12:00:47,104 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A15-FX506IV-HN330T/2876644
 2020-12-07 12:00:47,447 : INFO : scraper : Record saved
+2020-12-08 12:00:02,504 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:02,504 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2020-12-08 12:00:02,841 : INFO : scraper : Record saved
+2020-12-08 12:00:02,842 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:02,842 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2020-12-08 12:00:03,290 : INFO : scraper : Record saved
+2020-12-08 12:00:03,291 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:03,291 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2020-12-08 12:00:03,627 : INFO : scraper : Record saved
+2020-12-08 12:00:03,628 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:03,628 : DEBUG : scraper : URL: https://www.komplett.dk/product/1161770/gaming/gaming-pc/baerbar/msi-gl65-leopard-156-fhd-144-hz#
+2020-12-08 12:00:04,263 : INFO : scraper : Record saved
+2020-12-08 12:00:04,264 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:04,265 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+2020-12-08 12:00:04,752 : INFO : scraper : Record saved
+2020-12-08 12:00:04,754 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:04,754 : DEBUG : scraper : URL: https://www.komplett.dk/product/1155433/gaming/gaming-pc/baerbar/asus-rog-zephyrus-g15-ga502iv-156-fhd-240-hz
+2020-12-08 12:00:05,350 : INFO : scraper : Record saved
+2020-12-08 12:00:05,351 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:05,351 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159645/gaming/gaming-pc/baerbar/lenovo-legion-5i-156-fhd-120-hz
+2020-12-08 12:00:05,994 : INFO : scraper : Record saved
+2020-12-08 12:00:05,995 : DEBUG : scraper : Initiating class "Elgiganten"
+2020-12-08 12:00:05,995 : DEBUG : scraper : URL: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
+2020-12-08 12:00:06,600 : INFO : scraper : Record saved
+2020-12-08 12:00:06,602 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:06,602 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#
+2020-12-08 12:00:07,242 : INFO : scraper : Record saved
+2020-12-08 12:00:07,243 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:07,243 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154
+2020-12-08 12:00:07,553 : INFO : scraper : Record saved
+2020-12-08 12:00:07,554 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:07,555 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ROG-Zephyrus-M15-GU502LU-AZ027T/2884762
+2020-12-08 12:00:07,891 : INFO : scraper : Record saved
+2020-12-08 12:00:07,892 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:07,893 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159925/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506ii-156-fhd-144-hz
+2020-12-08 12:00:08,435 : INFO : scraper : Record saved
+2020-12-08 12:00:08,436 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:08,436 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
+2020-12-08 12:00:08,770 : INFO : scraper : Record saved
+2020-12-08 12:00:08,771 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:08,771 : DEBUG : scraper : URL: https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc
+2020-12-08 12:00:09,474 : INFO : scraper : Record saved
+2020-12-08 12:00:09,475 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:09,476 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Grafikkort/2876867
+2020-12-08 12:00:09,826 : INFO : scraper : Record saved
+2020-12-08 12:00:09,827 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:09,827 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-TUF-OC-24GB-GDDR6X-RAM-Grafikkort/2876869
+2020-12-08 12:00:10,283 : INFO : scraper : Record saved
+2020-12-08 12:00:10,285 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:10,285 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2876845
+2020-12-08 12:00:10,621 : INFO : scraper : Record saved
+2020-12-08 12:00:10,623 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:10,623 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
+2020-12-08 12:00:10,996 : INFO : scraper : Record saved
+2020-12-08 12:00:10,997 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:10,998 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168490/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-tuf-oc-gaming
+2020-12-08 12:00:11,633 : INFO : scraper : Record saved
+2020-12-08 12:00:11,634 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:11,634 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
+2020-12-08 12:00:12,172 : INFO : scraper : Record saved
+2020-12-08 12:00:12,174 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:12,174 : DEBUG : scraper : URL: https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc
+2020-12-08 12:00:12,690 : INFO : scraper : Record saved
+2020-12-08 12:00:12,691 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:12,691 : DEBUG : scraper : URL: https://www.komplett.dk/product/1173739/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix-oc-mouse
+2020-12-08 12:00:13,211 : ERROR : scraper : Failed in method "Komplett.get_info()": 'NoneType' object has no attribute 'text'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 282, in get_info
+    self.price = self.html_soup.find('span', class_='product-price-now').text.strip(',-').replace('.', '')
+AttributeError: 'NoneType' object has no attribute 'text'
+2020-12-08 12:00:13,227 : ERROR : scraper : Failed in method "Komplett.save_record()": 'Komplett' object has no attribute 'price'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 81, in __init__
+    self.save_record()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 232, in save_record
+    data[self.cat][self.name][self.URL_domain]["dates"][self.date] = {"price": self.price}
+AttributeError: 'Komplett' object has no attribute 'price'
+2020-12-08 12:00:13,228 : DEBUG : scraper : Initiating class "Komplett"
+2020-12-08 12:00:13,229 : DEBUG : scraper : URL: https://www.komplett.dk/product/1166278/gaming/gaming-pc/baerbar/asus-tuf-gaming-f15-fx506lu-156-fhd-144-hz
+2020-12-08 12:00:13,808 : INFO : scraper : Record saved
+2020-12-08 12:00:13,809 : DEBUG : scraper : Initiating class "Computersalg"
+2020-12-08 12:00:13,809 : DEBUG : scraper : URL: https://www.computersalg.dk/i/6713520/asus-rog-strix-gaming-g512lv-az012t?sq=6713520
+2020-12-08 12:00:16,077 : INFO : scraper : Record saved
+2020-12-08 12:00:16,078 : DEBUG : scraper : Initiating class "Proshop"
+2020-12-08 12:00:16,078 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A15-FX506IV-HN330T/2876644
+2020-12-08 12:00:16,394 : INFO : scraper : Record saved
