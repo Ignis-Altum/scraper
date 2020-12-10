@@ -2145,7 +2145,9 @@
       "www.komplett.dk": {
         "info": {
           "part_num": "1173739",
-          "url": "https://www.komplett.dk/product/1173739"
+          "url": "https://www.komplett.dk/product/1173739",
+          "part_num_2": "1168755",
+          "url_2": "https://www.komplett.dk/product/1168755"
         },
         "dates": {
           "2020-11-01": {
