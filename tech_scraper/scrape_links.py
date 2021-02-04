@@ -24,5 +24,5 @@ scraper.Komplett('gpu', 'https://www.komplett.dk/product/1168490/hardware/pc-kom
 scraper.Komplett('gpu', 'https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc')
 scraper.Komplett('gpu', 'https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc')
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1166278/gaming/gaming-pc/baerbar/asus-tuf-gaming-f15-fx506lu-156-fhd-144-hz')
-scraper.Computersalg('baerbar', 'https://www.computersalg.dk/i/6713520/asus-rog-strix-gaming-g512lv-az012t?sq=6713520')
 #scraper.Komplett('gpu', 'https://www.komplett.dk/product/1168755/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix-oc')
+scraper.Computersalg('baerbar', 'https://www.computersalg.dk/i/6713520/asus-rog-strix-gaming-g512lv-az012t?sq=6713520')
