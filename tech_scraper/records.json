@@ -9811,10 +9811,14 @@
     "asus rog strix g15 g512lv-az012t - core i7 10750h / 2.6 ghz - windows 10 home - 16 gb ram - 512 gb ssd nvme - 15.6\" 1920 x 1080 (full hd) @ 240 hz - gf rtx 2060 / uhd graphics - wi-fi, bluetooth - original sort": {
       "www.computersalg.dk": {
         "info": {
-          "part_num": "",
-          "url": ""
+          "part_num": "6713520",
+          "url": "https://www.computersalg.dk/i/6713520"
         },
-        "dates": {}
+        "dates": {
+          "2021-02-04": {
+            "price": "14143"
+          }
+        }
       }
     }
   }
