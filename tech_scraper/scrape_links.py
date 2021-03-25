@@ -15,7 +15,7 @@ scraper.Proshop('baerbar', 'https://www.proshop.dk/Baerbar/ASUS-ROG-Zephyrus-M15
 scraper.Proshop('baerbar', 'https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060')
 scraper.Komplett('baerbar', 'https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc')
 #scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-TUF-OC-10GB-GDDR6X-RAM-Grafikkort/2876861')
-scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Grafikkort/2876867')
+#scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Grafikkort/2876867')
 scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-TUF-OC-24GB-GDDR6X-RAM-Grafikkort/2876869')
 scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2876845')
 #scraper.Proshop('gpu', 'https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856')
