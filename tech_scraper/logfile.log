@@ -17091,3 +17091,45 @@ AttributeError: 'NoneType' object has no attribute 'h1'
 2021-03-24 12:00:16,631 : DEBUG : scraper : Initiating class "Komplett"
 2021-03-24 12:00:16,631 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168754/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix
 2021-03-24 12:00:17,358 : INFO : scraper : Record saved
+2021-03-25 12:00:03,115 : DEBUG : scraper : Initiating class "Komplett"
+2021-03-25 12:00:03,115 : DEBUG : scraper : URL: https://www.komplett.dk/product/1133452/hardware/lagring/harddiskssd/ssd-m2/corsair-force-series-mp600-1tb-m2-ssd#
+2021-03-25 12:00:04,103 : INFO : scraper : Record saved
+2021-03-25 12:00:04,105 : DEBUG : scraper : Initiating class "Proshop"
+2021-03-25 12:00:04,105 : DEBUG : scraper : URL: https://www.proshop.dk/SSD/Corsair-Force-MP600-NVMe-Gen4-M2-1TB/2779161
+2021-03-25 12:00:04,515 : INFO : scraper : Record saved
+2021-03-25 12:00:04,517 : DEBUG : scraper : Initiating class "Komplett"
+2021-03-25 12:00:04,517 : DEBUG : scraper : URL: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+2021-03-25 12:00:05,507 : INFO : scraper : Record saved
+2021-03-25 12:00:05,508 : DEBUG : scraper : Initiating class "Proshop"
+2021-03-25 12:00:05,508 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3080-ROG-STRIX-OC-10GB-GDDR6X-RAM-Grafikkort/2876859
+2021-03-25 12:00:05,907 : INFO : scraper : Record saved
+2021-03-25 12:00:05,909 : DEBUG : scraper : Initiating class "Komplett"
+2021-03-25 12:00:05,909 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+2021-03-25 12:00:06,468 : INFO : scraper : Record saved
+2021-03-25 12:00:06,470 : DEBUG : scraper : Initiating class "Elgiganten"
+2021-03-25 12:00:06,470 : DEBUG : scraper : URL: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
+2021-03-25 12:00:08,035 : INFO : scraper : Record saved
+2021-03-25 12:00:08,037 : DEBUG : scraper : Initiating class "Komplett"
+2021-03-25 12:00:08,037 : DEBUG : scraper : URL: https://www.komplett.dk/product/1159926/gaming/gaming-pc/baerbar/asus-tuf-gaming-a15-fx506iv-156-fhd-144-hz#
+2021-03-25 12:00:08,695 : INFO : scraper : Record saved
+2021-03-25 12:00:08,696 : DEBUG : scraper : Initiating class "Proshop"
+2021-03-25 12:00:08,697 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-TUF-Gaming-A17-FX706IU-H7209T/2877154
+2021-03-25 12:00:09,092 : INFO : scraper : Record saved
+2021-03-25 12:00:09,094 : DEBUG : scraper : Initiating class "Proshop"
+2021-03-25 12:00:09,094 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ROG-Zephyrus-M15-GU502LU-AZ027T/2884762
+2021-03-25 12:00:09,475 : INFO : scraper : Record saved
+2021-03-25 12:00:09,477 : DEBUG : scraper : Initiating class "Proshop"
+2021-03-25 12:00:09,477 : DEBUG : scraper : URL: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
+2021-03-25 12:00:09,869 : INFO : scraper : Record saved
+2021-03-25 12:00:09,870 : DEBUG : scraper : Initiating class "Komplett"
+2021-03-25 12:00:09,870 : DEBUG : scraper : URL: https://www.komplett.dk/product/1147203/gaming/gaming-pc/baerbar/komplett-khameleon-p9-baerbar-gaming-pc
+2021-03-25 12:00:10,531 : INFO : scraper : Record saved
+2021-03-25 12:00:10,533 : DEBUG : scraper : Initiating class "Proshop"
+2021-03-25 12:00:10,533 : DEBUG : scraper : URL: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-ROG-STRIX-OC-24GB-GDDR6X-RAM-Grafikkort/2876867
+2021-03-25 12:00:11,128 : ERROR : scraper : Failed in method "Proshop.get_info()": 'NoneType' object has no attribute 'h1'
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 59, in __init__
+    self.get_info()
+  File "/home/pi/Documents/scraper/tech_scraper/scraper.py", line 294, in get_info
+    self.name = self.html_soup.find('div', class_='col-xs-12 col-sm-7').h1.text.lower()
+AttributeError: 'NoneType' object has no attribute 'h1'
