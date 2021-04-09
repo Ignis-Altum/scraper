@@ -13495,5 +13495,45 @@
         }
       }
     }
+  },
+  "højtaler": {
+    "Logitech Z533": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/849816",
+          "id": 849816,
+          "currency": "DKK"
+        },
+        "dates": {
+          "2021-04-09": {
+            "price": 849.0
+          }
+        }
+      },
+      "proshop": {
+        "info": {
+          "url": "https://www.proshop.dk/2511000",
+          "id": 2511000,
+          "currency": "DKK"
+        },
+        "dates": {
+          "2021-04-09": {
+            "price": 662.0
+          }
+        }
+      },
+      "avxperten": {
+        "info": {
+          "url": "https://www.avxperten.dk/pc-hoejtalere/logitech-pc-hoejttaler-subwoofer-z533.asp",
+          "id": 25630,
+          "currency": "DKK"
+        },
+        "dates": {
+          "2021-04-09": {
+            "price": 729.0
+          }
+        }
+      }
+    }
   }
 }
