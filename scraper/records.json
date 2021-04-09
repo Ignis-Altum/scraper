@@ -1,7 +1,7 @@
 {
   "gpu": {
     "asus radeon rx 5700 xt rog strix oc - 8gb gddr6 ram - grafikkort": {
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2792486",
           "url": "https://www.proshop.dk/2792486"
@@ -404,7 +404,7 @@
       }
     },
     "asus geforce rtx 2080 ti rog strix oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1103205",
           "url": "https://www.komplett.dk/product/1103205",
@@ -662,7 +662,7 @@
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2679518",
           "url": "https://www.proshop.dk/2679518"
@@ -921,10 +921,12 @@
       }
     },
     "asus geforce rtx 3080 rog strix oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1168436",
-          "url": "https://www.komplett.dk/product/1168436"
+          "url": "https://www.komplett.dk/product/1168436",
+          "id": 1168436,
+          "currency": "DKK"
         },
         "dates": {
           "2020-09-13": {
@@ -1546,14 +1548,16 @@
             "price": "8590"
           },
           "2021-04-09": {
-            "price": "8590"
+            "price": 8590.0
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876859",
-          "url": "https://www.proshop.dk/2876859"
+          "url": "https://www.proshop.dk/2876859",
+          "id": 2876859,
+          "currency": "DKK"
         },
         "dates": {
           "2020-09-14": {
@@ -2169,13 +2173,13 @@
             "price": "10190"
           },
           "2021-04-09": {
-            "price": "10190"
+            "price": 10190.0
           }
         }
       }
     },
     "asus geforce rtx 3080 tuf oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1168491",
           "url": "https://www.komplett.dk/product/1168491"
@@ -2252,10 +2256,12 @@
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876861",
-          "url": "https://www.proshop.dk/2876861"
+          "url": "https://www.proshop.dk/2876861",
+          "id": 2876861,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -2338,12 +2344,15 @@
           },
           "2020-11-27": {
             "price": "6390"
+          },
+          "2021-04-09": {
+            "price": 8890.0
           }
         }
       }
     },
     "asus geforce rtx 3090 rog strix oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1168438",
           "url": "https://www.komplett.dk/product/1168438"
@@ -2819,7 +2828,7 @@
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876867",
           "url": "https://www.proshop.dk/2876867"
@@ -3258,10 +3267,12 @@
       }
     },
     "asus geforce rtx 3090 tuf oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1168490",
-          "url": "https://www.komplett.dk/product/1168490"
+          "url": "https://www.komplett.dk/product/1168490",
+          "id": 1168490,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -3742,14 +3753,16 @@
             "price": "17999"
           },
           "2021-04-09": {
-            "price": "17999"
+            "price": 17999.0
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876869",
-          "url": "https://www.proshop.dk/2876869"
+          "url": "https://www.proshop.dk/2876869",
+          "id": 2876869,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -4227,13 +4240,13 @@
             "price": "18490"
           },
           "2021-04-09": {
-            "price": "18490"
+            "price": 18490.0
           }
         }
       }
     },
     "asus geforce rtx 3070 rog strix oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1173739",
           "url": "https://www.komplett.dk/product/1173739",
@@ -4337,10 +4350,12 @@
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876845",
-          "url": "https://www.proshop.dk/2876845"
+          "url": "https://www.proshop.dk/2876845",
+          "id": 2876845,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -4818,16 +4833,18 @@
             "price": "7190"
           },
           "2021-04-09": {
-            "price": "7190"
+            "price": 7190.0
           }
         }
       }
     },
     "asus geforce rtx 3070 tuf oc": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1171385",
-          "url": "https://www.komplett.dk/product/1171385"
+          "url": "https://www.komplett.dk/product/1171385",
+          "id": 1171385,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -5308,14 +5325,16 @@
             "price": "6249"
           },
           "2021-04-09": {
-            "price": "6249"
+            "price": 6249.0
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876856",
-          "url": "https://www.proshop.dk/2876856"
+          "url": "https://www.proshop.dk/2876856",
+          "id": 2876856,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -5602,15 +5621,20 @@
           },
           "2021-02-03": {
             "price": "5890"
+          },
+          "2021-04-09": {
+            "price": 6690.0
           }
         }
       }
     },
     "asus geforce rtx 3070 rog strix": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1168754",
-          "url": "https://www.komplett.dk/product/1168754"
+          "url": "https://www.komplett.dk/product/1168754",
+          "id": 1168754,
+          "currency": "DKK"
         },
         "dates": {
           "2021-03-06": {
@@ -5716,7 +5740,7 @@
             "price": "6899"
           },
           "2021-04-09": {
-            "price": "6899"
+            "price": 6899.0
           }
         }
       }
@@ -5724,10 +5748,12 @@
   },
   "ssd": {
     "corsair force mp600 1tb m.2": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1133452",
-          "url": "https://www.komplett.dk/product/1133452"
+          "url": "https://www.komplett.dk/product/1133452",
+          "id": 1133452,
+          "currency": "DKK"
         },
         "dates": {
           "2020-06-10": {
@@ -6385,14 +6411,16 @@
             "price": "1599"
           },
           "2021-04-09": {
-            "price": "1599"
+            "price": 1599.0
           }
         }
       },
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2779161",
-          "url": "https://www.proshop.dk/2779161"
+          "url": "https://www.proshop.dk/2779161",
+          "id": 2779161,
+          "currency": "DKK"
         },
         "dates": {
           "2020-07-05": {
@@ -7191,15 +7219,15 @@
             "price": "1403"
           },
           "2021-04-09": {
-            "price": "1385"
+            "price": 1385.0
           }
         }
       }
     }
   },
-  "baerbar": {
+  "bærbar": {
     "msi gl65 leopard 15,6\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1161770",
           "url": "https://www.komplett.dk/product/1161770"
@@ -7470,10 +7498,12 @@
       }
     },
     "asus rog strix g g712lw 17,3\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1159920",
-          "url": "https://www.komplett.dk/product/1159920"
+          "url": "https://www.komplett.dk/product/1159920",
+          "id": 1159920,
+          "currency": "DKK"
         },
         "dates": {
           "2020-09-19": {
@@ -8077,13 +8107,13 @@
             "price": "12795"
           },
           "2021-04-09": {
-            "price": "12795"
+            "price": 12795.0
           }
         }
       }
     },
     "asus rog strix g512lw 15,6\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1155443",
           "url": "https://www.komplett.dk/product/1155443"
@@ -8126,7 +8156,7 @@
       }
     },
     "asus rog zephyrus g15 ga502iv 15,6\" fhd 240 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1155433",
           "url": "https://www.komplett.dk/product/1155433"
@@ -8469,7 +8499,7 @@
       }
     },
     "acer nitro 5 an515-55 15,6\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1157681",
           "url": "https://www.komplett.dk/product/1157681"
@@ -8608,7 +8638,7 @@
       }
     },
     "lenovo legion 5i 15,6\" fhd 120 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1159645",
           "url": "https://www.komplett.dk/product/1159645"
@@ -8915,10 +8945,12 @@
       }
     },
     "asus tuf gaming a15 fx506 15,6\" gaming computer (sort)": {
-      "www.elgiganten.dk": {
+      "elgiganten": {
         "info": {
           "part_num": "157466",
-          "url": "https://www.elgiganten.dk/product/157466/"
+          "url": "https://www.elgiganten.dk/product/157466/",
+          "id": 157466,
+          "currency": "DKK"
         },
         "dates": {
           "2020-09-19": {
@@ -9498,16 +9530,18 @@
             "price": "9999"
           },
           "2021-04-09": {
-            "price": "9999"
+            "price": 9999.0
           }
         }
       }
     },
     "asus tuf gaming a15 fx506iv 15,6\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1159926",
-          "url": "https://www.komplett.dk/product/1159926"
+          "url": "https://www.komplett.dk/product/1159926",
+          "id": 1159926,
+          "currency": "DKK"
         },
         "dates": {
           "2020-09-19": {
@@ -10108,13 +10142,13 @@
             "price": "10995"
           },
           "2021-04-09": {
-            "price": "10995"
+            "price": 10995.0
           }
         }
       }
     },
     "asus rog strix g15 g512lv-al016t": {
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2861886",
           "url": "https://www.proshop.dk/2861886"
@@ -10145,10 +10179,12 @@
       }
     },
     "asus tuf gaming a17 fx706iu-h7209t": {
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2877154",
-          "url": "https://www.proshop.dk/2877154"
+          "url": "https://www.proshop.dk/2877154",
+          "id": 2877154,
+          "currency": "DKK"
         },
         "dates": {
           "2020-09-19": {
@@ -10749,16 +10785,18 @@
             "price": "9499"
           },
           "2021-04-09": {
-            "price": "9499"
+            "price": 9499.0
           }
         }
       }
     },
     "asus rog zephyrus m15 gu502lu-az027t": {
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2884762",
-          "url": "https://www.proshop.dk/2884762"
+          "url": "https://www.proshop.dk/2884762",
+          "id": 2884762,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -11239,13 +11277,13 @@
             "price": "14445"
           },
           "2021-04-09": {
-            "price": "14445"
+            "price": 14445.0
           }
         }
       }
     },
     "lenovo legion 5i 15,6\" fhd 240 hz 500 nits": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1159657",
           "url": "https://www.komplett.dk/product/1159657"
@@ -11345,7 +11383,7 @@
       }
     },
     "asus tuf gaming a15 fx506ii 15,6\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1159925",
           "url": "https://www.komplett.dk/product/1159925"
@@ -11550,10 +11588,12 @@
       }
     },
     "asus zenbook duo ux481fl-hj091r": {
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2866060",
-          "url": "https://www.proshop.dk/2866060"
+          "url": "https://www.proshop.dk/2866060",
+          "id": 2866060,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -12034,16 +12074,18 @@
             "price": "12706"
           },
           "2021-04-09": {
-            "price": "12706"
+            "price": 12706.0
           }
         }
       }
     },
-    "komplett khameleon p9 baerbar gaming pc": {
-      "www.komplett.dk": {
+    "komplett khameleon p9 bærbar gaming pc": {
+      "komplett": {
         "info": {
           "part_num": "1147203",
-          "url": "https://www.komplett.dk/product/1147203"
+          "url": "https://www.komplett.dk/product/1147203",
+          "id": 1147203,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-01": {
@@ -12525,16 +12567,18 @@
             "price": "11499"
           },
           "2021-04-09": {
-            "price": "11499"
+            "price": 11499.0
           }
         }
       }
     },
     "asus tuf gaming f15 fx506lu 15,6\" fhd 144 hz": {
-      "www.komplett.dk": {
+      "komplett": {
         "info": {
           "part_num": "1166278",
-          "url": "https://www.komplett.dk/product/1166278"
+          "url": "https://www.komplett.dk/product/1166278",
+          "id": 1166278,
+          "currency": "DKK"
         },
         "dates": {
           "2020-11-11": {
@@ -12985,13 +13029,13 @@
             "price": "8790"
           },
           "2021-04-09": {
-            "price": "8790"
+            "price": 8790.0
           }
         }
       }
     },
     "asus rog strix g15 g512lv-az012t - core i7 10750h": {
-      "www.computersalg.dk": {
+      "computersalg": {
         "info": {
           "part_num": "6713520",
           "url": "https://www.computersalg.dk/i/6713520"
@@ -13346,7 +13390,7 @@
       }
     },
     "asus tuf gaming a15 fx506iv-hn330t": {
-      "www.proshop.dk": {
+      "proshop": {
         "info": {
           "part_num": "2876644",
           "url": "https://www.proshop.dk/2876644"
