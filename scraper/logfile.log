@@ -43,3 +43,4 @@ Traceback (most recent call last):
   File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
     soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
 AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-15 20:11:40,451 : INFO : scraper.add_product : Adding product: bærbar - https://www.komplett.dk/product/1165670/gaming/gaming-pc/baerbar/msi-gf75-thin-173-fhd-144-hz#
