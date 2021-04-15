@@ -22,3 +22,24 @@ Traceback (most recent call last):
   File "/home/pi/Documents/scraper/scraper/domains.py", line 57, in proshop
     soup.find("div", class_="site-currency-attention")
 AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-15 12:00:04,913 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
+    self.info = website_function(soup)
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
+    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
+AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-15 12:00:12,918 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
+    self.info = website_function(soup)
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
+    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
+AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-15 12:00:14,336 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1168754/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
+    self.info = website_function(soup)
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
+    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
+AttributeError: 'NoneType' object has no attribute 'text'
