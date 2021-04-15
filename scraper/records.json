@@ -9831,7 +9831,7 @@
           },
           {
             "date": "2021-04-15",
-            "price": 1388.0
+            "price": 1389.0
           }
         ]
       }
@@ -18366,8 +18366,17 @@
     },
     "msi gf75 thin 17,3\" fhd 144 hz": {
       "komplett": {
-        "info": {},
-        "datapoints": []
+        "info": {
+          "url": "https://www.komplett.dk/product/1165670",
+          "id": 1165670,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-04-15",
+            "price": 8995.0
+          }
+        ]
       }
     }
   },
