@@ -65,3 +65,24 @@ Traceback (most recent call last):
   File "/home/pi/Documents/scraper/scraper/domains.py", line 60, in proshop
     .strip(" kr")
 ValueError: could not convert string to float: 'Varen er udgået'
+2021-04-18 12:00:09,180 : ERROR : scraper.scrape : Could not get a price, maybe the product is no longer for sale - url: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
+    soup.find("span", class_="site-currency-attention")
+AttributeError: 'NoneType' object has no attribute 'text'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
+    "div", class_="site-currency-attention site-currency-campaign"
+AttributeError: 'NoneType' object has no attribute 'text'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
+    self.info = website_function(soup)
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 60, in proshop
+    .strip(" kr")
+ValueError: could not convert string to float: 'Varen er udgået'
