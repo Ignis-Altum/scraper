@@ -5,7 +5,8 @@
         "info": {
           "part_num": "2792486",
           "url": "https://www.proshop.dk/2792486",
-          "id": 2792486
+          "id": 2792486,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -543,7 +544,8 @@
           "extra-info": "Until 2020-09-03 the tracked price was for the OC-edition of the ASUS 2080 ti ROG Strix, but after that date it's the non OC-edition",
           "part_num_2": "1116464",
           "url_2": "https://www.komplett.dk/product/1116464",
-          "id": 1116464
+          "id": 1116464,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -880,7 +882,8 @@
         "info": {
           "part_num": "2679518",
           "url": "https://www.proshop.dk/2679518",
-          "id": 2679518
+          "id": 2679518,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -2957,7 +2960,8 @@
         "info": {
           "part_num": "1168491",
           "url": "https://www.komplett.dk/product/1168491",
-          "id": 1168491
+          "id": 1168491,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -3226,7 +3230,8 @@
         "info": {
           "part_num": "1168438",
           "url": "https://www.komplett.dk/product/1168438",
-          "id": 1168438
+          "id": 1168438,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -3859,7 +3864,8 @@
         "info": {
           "part_num": "2876867",
           "url": "https://www.proshop.dk/2876867",
-          "id": 2876867
+          "id": 2876867,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -5830,7 +5836,8 @@
           "url": "https://www.komplett.dk/product/1173739",
           "part_num_2": "1168755",
           "url_2": "https://www.komplett.dk/product/1168755",
-          "id": 1168755
+          "id": 1168755,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -9955,7 +9962,8 @@
         "info": {
           "part_num": "1161770",
           "url": "https://www.komplett.dk/product/1161770",
-          "id": 1161770
+          "id": 1161770,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -11174,7 +11182,8 @@
         "info": {
           "part_num": "1155443",
           "url": "https://www.komplett.dk/product/1155443",
-          "id": 1155443
+          "id": 1155443,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -11229,7 +11238,8 @@
         "info": {
           "part_num": "1155433",
           "url": "https://www.komplett.dk/product/1155433",
-          "id": 1155433
+          "id": 1155433,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -11684,7 +11694,8 @@
         "info": {
           "part_num": "1157681",
           "url": "https://www.komplett.dk/product/1157681",
-          "id": 1157681
+          "id": 1157681,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -11867,7 +11878,8 @@
         "info": {
           "part_num": "1159645",
           "url": "https://www.komplett.dk/product/1159645",
-          "id": 1159645
+          "id": 1159645,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -13958,7 +13970,8 @@
         "info": {
           "part_num": "2861886",
           "url": "https://www.proshop.dk/2861886",
-          "id": 2861886
+          "id": 2861886,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -15549,7 +15562,8 @@
         "info": {
           "part_num": "1159657",
           "url": "https://www.komplett.dk/product/1159657",
-          "id": 1159657
+          "id": 1159657,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -15680,7 +15694,8 @@
         "info": {
           "part_num": "1159925",
           "url": "https://www.komplett.dk/product/1159925",
-          "id": 1159925
+          "id": 1159925,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -17987,7 +18002,8 @@
         "info": {
           "part_num": "6713520",
           "url": "https://www.computersalg.dk/i/6713520",
-          "id": 6713520
+          "id": 6713520,
+          "currency": "DKK"
         },
         "datapoints": [
           {
@@ -18458,7 +18474,8 @@
         "info": {
           "part_num": "2876644",
           "url": "https://www.proshop.dk/2876644",
-          "id": 2876644
+          "id": 2876644,
+          "currency": "DKK"
         },
         "datapoints": [
           {
