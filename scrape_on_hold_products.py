@@ -2,15 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import threading
-#from domains import get_website_function, get_website_name
 from scraper.constants import REQUEST_HEADER, REQUEST_COOKIES
 from scraper.domains import get_website_function, get_website_name
-
-
-# REQUEST_HEADER = {
-#     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
-# }
-# REQUEST_COOKIES = {"cookies_are": "working"}
+from scraper import Filemanager
 
 
 class ScrapeTester:
@@ -42,7 +36,7 @@ class ScrapeTester:
 
 def main():
     products_df = pd.read_csv(
-        f"./scraper/products_on_hold.csv", sep=",", header=0
+        f"{Filemanager.root_path}/scraper/products_on_hold.csv", sep=",", header=0
     )
 
     products = [ScrapeTester(category, url) for category, url in zip(products_df["category"], products_df["url"])]
