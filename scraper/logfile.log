@@ -121,3 +121,31 @@ Traceback (most recent call last):
   File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
     soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
 AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-24 12:00:05,133 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
+    self.info = website_function(soup)
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
+    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
+AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-24 12:00:09,094 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
+    soup.find("span", class_="site-currency-attention")
+AttributeError: 'NoneType' object has no attribute 'text'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
+    "div", class_="site-currency-attention site-currency-campaign"
+AttributeError: 'NoneType' object has no attribute 'text'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
+    self.info = website_function(soup)
+  File "/home/pi/Documents/scraper/scraper/domains.py", line 57, in proshop
+    soup.find("div", class_="site-currency-attention")
+AttributeError: 'NoneType' object has no attribute 'text'
