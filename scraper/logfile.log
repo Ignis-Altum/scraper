@@ -149,3 +149,4 @@ Traceback (most recent call last):
   File "/home/pi/Documents/scraper/scraper/domains.py", line 57, in proshop
     soup.find("div", class_="site-currency-attention")
 AttributeError: 'NoneType' object has no attribute 'text'
+2021-04-27 12:00:09,897 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
