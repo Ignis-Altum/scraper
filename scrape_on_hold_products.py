@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 import threading
+import logging.config
+import logging
 from scraper.constants import REQUEST_HEADER, REQUEST_COOKIES
 from scraper.domains import get_website_function, get_website_name
 from scraper import Filemanager
@@ -31,7 +33,9 @@ class ScrapeTester:
         except Exception:
             # print(f"Not available: {self.url}")
             return
+
         print(f"{self.category},{self.url}")
+        logging.getLogger("scrape_on_hold").info(f"Product on hold is now avaliable: {self.category},{self.url}")
 
 
 def main():
@@ -51,4 +55,11 @@ def main():
 
 
 if __name__ == "__main__":
+    logging.config.fileConfig(
+        fname=f"{Filemanager.root_path}/scraper/logging.ini",
+        defaults={
+            "logfilename": f"{Filemanager.root_path}/scraper/logfile.log"
+        },
+    )
+
     main()
