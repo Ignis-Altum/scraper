@@ -2,151 +2,15 @@
 2021-04-09 21:34:11,551 : INFO : scraper.add_product : Adding product: højtaler - https://www.proshop.dk/Hoejttalere-PC/Logitech-Z533-Black-21-Kanal-Sort/2511000
 2021-04-09 21:34:29,317 : INFO : scraper.add_product : Adding product: højtaler - https://www.avxperten.dk/pc-hoejtalere/logitech-pc-hoejttaler-subwoofer-z533.asp
 2021-04-10 12:00:08,255 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-ROG-STRIX-OC-8GB-GDDR6-RAM-Grafikkort/2876845
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
-    soup.find("span", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
-    "div", class_="site-currency-attention site-currency-campaign"
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 57, in proshop
-    soup.find("div", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-15 12:00:04,913 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1168436/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3080-rog-strix-oc
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
-    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-15 12:00:12,918 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1171385/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-tuf-oc
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
-    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-15 12:00:14,336 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1168754/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3070-rog-strix
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
-    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-15 20:11:40,451 : INFO : scraper.add_product : Adding product: bærbar - https://www.komplett.dk/product/1165670/gaming/gaming-pc/baerbar/msi-gf75-thin-173-fhd-144-hz#
 2021-04-17 17:27:31,809 : ERROR : scraper.scrape : Could not get a price, maybe the product is no longer for sale - url: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
-    soup.find("span", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
-    "div", class_="site-currency-attention site-currency-campaign"
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 60, in proshop
-    .strip(" kr")
-ValueError: could not convert string to float: 'Varen er udgået'
 2021-04-18 12:00:09,180 : ERROR : scraper.scrape : Could not get a price, maybe the product is no longer for sale - url: https://www.proshop.dk/Baerbar/ASUS-ZenBook-Duo-UX481FL-HJ091R/2866060
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
-    soup.find("span", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
-    "div", class_="site-currency-attention site-currency-campaign"
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 60, in proshop
-    .strip(" kr")
-ValueError: could not convert string to float: 'Varen er udgået'
 2021-04-19 22:01:45,866 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3090-TUF-OC-24GB-GDDR6X-RAM-Grafikkort/2876869
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
-    soup.find("span", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
-    "div", class_="site-currency-attention site-currency-campaign"
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 57, in proshop
-    soup.find("div", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-19 22:01:49,555 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.avxperten.dk/pc-hoejtalere/logitech-pc-hoejttaler-subwoofer-z533.asp
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 98, in avxperten
-    price = float(soup.find("div", class_="price").text.replace(u"\xa0DKK", ""))
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-23 12:00:06,321 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
-    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-24 12:00:05,133 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1159920/gaming/gaming-pc/baerbar/asus-rog-strix-g-g712lw-173-fhd-144-hz#
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 24, in komplett
-    soup.find("span", class_="product-price-now").text.strip(",-").replace(".", "")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-24 12:00:09,094 : ERROR : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 38, in proshop
-    soup.find("span", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 48, in proshop
-    "div", class_="site-currency-attention site-currency-campaign"
-AttributeError: 'NoneType' object has no attribute 'text'
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/pi/Documents/scraper/scraper/scrape.py", line 38, in get_info
-    self.info = website_function(soup)
-  File "/home/pi/Documents/scraper/scraper/domains.py", line 57, in proshop
-    soup.find("div", class_="site-currency-attention")
-AttributeError: 'NoneType' object has no attribute 'text'
 2021-04-27 12:00:09,897 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.elgiganten.dk/product/gaming/gaming-laptop/157466/asus-tuf-gaming-a15-fx506-15-6-gaming-computer-sort
