@@ -10358,6 +10358,36 @@
           }
         ]
       }
+    },
+    "wd red sa500 1tb m.2 ssd": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1154847",
+          "id": 1154847,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-03",
+            "price": 911.0
+          }
+        ]
+      }
+    },
+    "kingston a2000 m.2 nvme ssd - 1tb": {
+      "proshop": {
+        "info": {
+          "url": "https://www.proshop.dk/2792095",
+          "id": 2792095,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-03",
+            "price": 699.0
+          }
+        ]
+      }
     }
   },
   "bærbar": {
