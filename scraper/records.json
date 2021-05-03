@@ -10407,6 +10407,21 @@
           }
         ]
       }
+    },
+    "corsair mp400 1tb nvme pcie m.2 ssd": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1170610",
+          "id": 1170610,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-03",
+            "price": 849.0
+          }
+        ]
+      }
     }
   },
   "bærbar": {
