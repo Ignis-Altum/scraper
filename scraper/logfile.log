@@ -17,3 +17,4 @@
 2021-05-03 16:16:30,770 : INFO : scraper.add_product : Adding product: ssd - https://www.komplett.dk/product/1154847/hardware/lagring/harddiskssd/ssd-m2/wd-red-sa500-1tb-m2-ssd
 2021-05-03 16:17:00,091 : INFO : scraper.add_product : Adding product: ssd - https://www.proshop.dk/SSD/Kingston-A2000-M2-NVMe-SSD-1TB/2792095
 2021-05-03 16:18:38,174 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
+2021-05-03 16:22:28,230 : INFO : scraper.add_product : Adding product: ssd - https://www.komplett.dk/product/1120737/hardware/lagring/harddiskssd/ssd-m2/samsung-970-evo-plus-1tb-ssd

@@ -10392,6 +10392,21 @@
           }
         ]
       }
+    },
+    "samsung 970 evo plus 1tb ssd": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1120737",
+          "id": 1120737,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-03",
+            "price": 1199.0
+          }
+        ]
+      }
     }
   },
   "bærbar": {
