@@ -20,3 +20,4 @@
 2021-05-03 16:22:28,230 : INFO : scraper.add_product : Adding product: ssd - https://www.komplett.dk/product/1120737/hardware/lagring/harddiskssd/ssd-m2/samsung-970-evo-plus-1tb-ssd
 2021-05-03 16:25:05,899 : INFO : scraper.add_product : Adding product: ssd - https://www.komplett.dk/product/1170610/hardware/lagring/harddiskssd/ssd-m2/corsair-mp400-1tb-nvme-pcie-m2-ssd
 2021-05-03 16:33:13,966 : INFO : scraper.add_product : Adding product: ssd - https://www.proshop.dk/SSD/Samsung-970-EVO-Plus-SSD-M2-2280-1TB/2695179
+2021-05-04 12:00:13,980 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
