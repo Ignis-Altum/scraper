@@ -20215,6 +20215,19 @@
             "price": 849.0
           }
         ]
+      },
+      "proshop": {
+        "info": {
+          "url": "https://www.proshop.dk/2772138",
+          "id": 2772138,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 849.0
+          }
+        ]
       }
     }
   }
