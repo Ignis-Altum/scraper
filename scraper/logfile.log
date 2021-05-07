@@ -24,3 +24,9 @@
 2021-05-07 12:00:09,126 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1166278/gaming/gaming-pc/baerbar/asus-tuf-gaming-f15-fx506lu-156-fhd-144-hz
 2021-05-07 23:02:30,245 : INFO : scraper.add_product : Adding product: mus - https://www.komplett.dk/product/1130318/gaming/spiludstyr/gaming-mus/logitech-g502-lightspeed-traadloes-mus
 2021-05-07 23:04:37,828 : INFO : scraper.add_product : Adding product: mus - https://www.proshop.dk/Mus/Logitech-G502-LIGHTSPEED-Gaming-Mus-Optisk-11-knapper-Sort-med-RGB-lys/2772138
+2021-05-07 23:09:59,341 : INFO : scraper.add_product : Adding product: gpu - https://www.komplett.dk/product/1174206/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-ti-tuf-gaming-oc#
+2021-05-07 23:10:30,600 : INFO : scraper.add_product : Adding product: gpu - https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-Ti-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2886986
+2021-05-07 23:12:49,901 : INFO : scraper.add_product : Adding product: gpu - https://www.komplett.dk/product/1178869/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-tuf-gaming-oc
+2021-05-07 23:14:38,857 : INFO : scraper.add_product : Adding product: gpu - https://www.komplett.dk/product/1178870/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-tuf-gaming
+2021-05-07 23:16:11,032 : INFO : scraper.add_product : Adding product: gpu - https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-TUF-OC-12GB-GDDR6-RAM-Grafikkort/2918906
+2021-05-07 23:18:42,063 : INFO : scraper.add_product : Adding product: gpu - https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-TUF-12GB-GDDR6-RAM-Grafikkort/2918904

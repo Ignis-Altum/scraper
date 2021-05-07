@@ -8306,6 +8306,85 @@
           }
         ]
       }
+    },
+    "ASUS RTX 3060 TI TUF OC": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1174206",
+          "id": 1174206,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 5749.0
+          }
+        ]
+      },
+      "proshop": {
+        "info": {
+          "url": "https://www.proshop.dk/2886986",
+          "id": 2886986,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 5590.0
+          }
+        ]
+      }
+    },
+    "ASUS RTX 3060 TUF OC": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1178869",
+          "id": 1178869,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 4490.0
+          }
+        ]
+      },
+      "proshop": {
+        "info": {
+          "url": "https://www.proshop.dk/2918906",
+          "id": 2918906,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 4890.0
+          }
+        ]
+      }
+    },
+    "ASUS RTX 3060 TUF": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1178870",
+          "id": 1178870,
+          "currency": "DKK"
+        },
+        "datapoints": []
+      },
+      "proshop": {
+        "info": {
+          "url": "https://www.proshop.dk/2918904",
+          "id": 2918904,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 4790.0
+          }
+        ]
+      }
     }
   },
   "ssd": {
