@@ -20200,5 +20200,22 @@
         ]
       }
     }
+  },
+  "mus": {
+    "Logitech G502 Lightspeed": {
+      "komplett": {
+        "info": {
+          "url": "https://www.komplett.dk/product/1130318",
+          "id": 1130318,
+          "currency": "DKK"
+        },
+        "datapoints": [
+          {
+            "date": "2021-05-07",
+            "price": 849.0
+          }
+        ]
+      }
+    }
   }
 }

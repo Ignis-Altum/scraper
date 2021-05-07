@@ -22,3 +22,4 @@
 2021-05-03 16:33:13,966 : INFO : scraper.add_product : Adding product: ssd - https://www.proshop.dk/SSD/Samsung-970-EVO-Plus-SSD-M2-2280-1TB/2695179
 2021-05-04 12:00:13,980 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3070-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2876856
 2021-05-07 12:00:09,126 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1166278/gaming/gaming-pc/baerbar/asus-tuf-gaming-f15-fx506lu-156-fhd-144-hz
+2021-05-07 23:02:30,245 : INFO : scraper.add_product : Adding product: mus - https://www.komplett.dk/product/1130318/gaming/spiludstyr/gaming-mus/logitech-g502-lightspeed-traadloes-mus
