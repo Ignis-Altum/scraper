@@ -49,3 +49,4 @@
 2021-06-04 12:00:06,147 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-TUF-OC-12GB-GDDR6-RAM-Grafikkort/2918906
 2021-06-04 12:00:06,153 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-Ti-TUF-OC-8GB-GDDR6-RAM-Grafikkort/2886986
 2021-06-04 12:00:06,425 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-TUF-12GB-GDDR6-RAM-Grafikkort/2918904
+2021-06-23 12:00:07,253 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1178869/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-tuf-gaming-oc
