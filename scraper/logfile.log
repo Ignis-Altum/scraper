@@ -51,3 +51,4 @@
 2021-06-04 12:00:06,425 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.proshop.dk/Grafikkort/ASUS-GeForce-RTX-3060-TUF-12GB-GDDR6-RAM-Grafikkort/2918904
 2021-06-23 12:00:07,253 : WARNING : scraper.scrape : Could not get all the data needed from url: https://www.komplett.dk/product/1178869/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-tuf-gaming-oc
 2021-07-06 12:00:11,935 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
+2021-07-07 12:00:12,765 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
