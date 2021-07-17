@@ -64,3 +64,5 @@
 2021-07-15 12:00:13,047 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
 2021-07-16 12:00:13,106 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1178869/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-tuf-gaming-oc
 2021-07-16 12:00:13,204 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
+2021-07-17 12:00:10,417 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1178869/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3060-tuf-gaming-oc
+2021-07-17 12:00:11,306 : INFO : scrape_on_hold : Product on hold is now avaliable: gpu,https://www.komplett.dk/product/1168438/hardware/pc-komponenter/grafikkort/asus-geforce-rtx-3090-rog-strix-oc
